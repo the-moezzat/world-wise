@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "date": "Sun Jul 09 2023",
+      "emoji": "🇪🇬",
+      "notes": "party city",
+      "position": {
+        "lat": 30.051443647399406,
+        "lng": 31.306133326242666
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Jeddah",
+      "country": "Saudi Arabia",
+      "date": "Sun Jul 09 2023",
+      "emoji": "🇸🇦",
+      "notes": "the pride of red sea\n",
+      "position": {
+        "lat": 21.248422235627014,
+        "lng": 39.19921875000001
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Medina",
+      "country": "Saudi Arabia",
+      "date": "Mon Jul 10 2023",
+      "emoji": "🇸🇦",
+      "notes": "The house of the prophet Mohamed",
+      "position": {
+        "lat": 24.886436490787712,
+        "lng": 39.19921875000001
+      },
+      "id": 98443200
+    }
+  ]
+}
